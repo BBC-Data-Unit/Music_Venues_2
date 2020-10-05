@@ -29,6 +29,7 @@ The story featured on the UK and England BBC homepages, as well as radio bulleti
 It was also used by a number of partners, including:
 
 Glasgow Live: [Music venues fight for survival as £36,000 raised for struggling gig spots in Scotland](https://www.glasgowlive.co.uk/news/glasgow-news/music-venues-fight-survival-36000-19043338)
+
 Teeside Live: [Venues desperately fighting to keep grassroots live music alive on an eighth of their normal income](https://www.gazettelive.co.uk/news/teesside-news/venues-desperately-fighting-keep-grassroots-19047748)
 
 
