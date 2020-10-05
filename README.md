@@ -2,6 +2,8 @@
 
 In October we took another look at the state of the live music industry in the UK amid the pandemic. 
 
+![Story screenshot](https://user-images.githubusercontent.com/61186777/95092162-3df85e80-071f-11eb-88bd-1fe46e889196.png)
+
 Operators across the country said they would have to rely on fundraising activities to make it through the winter.
 
 The 10pm curfew imposed on 24 September could leave the businesses having to trade on an eighth of their usual income, a charity leader told the BBC.
