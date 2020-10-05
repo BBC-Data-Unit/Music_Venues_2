@@ -1,5 +1,4 @@
-# Music_Venues_2
-Covid: UK live music scene on 'red alert' amid pandemic
+# Covid: UK live music scene on 'red alert' amid pandemic
 
 In October we took another look at the state of the live music industry in the UK amid the pandemic. 
 
