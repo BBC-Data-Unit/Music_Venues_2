@@ -18,9 +18,9 @@ We provided our partners with a spreadsheet containing the details of, and links
 
 We also compiled a report with quotes from the Music Venues Trust, popstar KT Tunstall and operators of venues in Leicester and Stockton-on-Tees. 
 
-* To view the report, click here: https://docs.google.com/document/d/1x1q4AZpIbb-YufMc79eNGXlrudnvhQqsq5tkX22M54U/edit?usp=sharing
+* To view the report, [click here](https://docs.google.com/document/d/1x1q4AZpIbb-YufMc79eNGXlrudnvhQqsq5tkX22M54U/edit?usp=sharing)
 
-* And to view the dataset, click here: https://docs.google.com/spreadsheets/d/1DNsAh0NYg0OV6u0ka_WSGKj8MvbU43V8rATEKQUGF7A/edit?usp=sharing
+* And to view the dataset, [click here](https://docs.google.com/spreadsheets/d/1DNsAh0NYg0OV6u0ka_WSGKj8MvbU43V8rATEKQUGF7A/edit?usp=sharing)
 
 ## How was the report used?
 
@@ -28,9 +28,13 @@ The story featured on the UK and England BBC homepages, as well as radio bulleti
 
 It was also used by a number of partners, including:
 
-Glasgow Live: [Music venues fight for survival as £36,000 raised for struggling gig spots in Scotland](https://www.glasgowlive.co.uk/news/glasgow-news/music-venues-fight-survival-36000-19043338)
+* Glasgow Live: [Music venues fight for survival as £36,000 raised for struggling gig spots in Scotland](https://www.glasgowlive.co.uk/news/glasgow-news/music-venues-fight-survival-36000-19043338) *3 October 2020*
+* Teeside Live: [Venues desperately fighting to keep grassroots live music alive on an eighth of their normal income](https://www.gazettelive.co.uk/news/teesside-news/venues-desperately-fighting-keep-grassroots-19047748) *5 October 2020*
 
-Teeside Live: [Venues desperately fighting to keep grassroots live music alive on an eighth of their normal income](https://www.gazettelive.co.uk/news/teesside-news/venues-desperately-fighting-keep-grassroots-19047748)
+## Related repos
+
+You can [find all coronavirus-related stories by the BBC data units tagged 'coronavirus' here](https://github.com/search?q=topic%3Acoronavirus+org%3ABBC-Data-Unit&type=Repositories)
+
 
 
 
