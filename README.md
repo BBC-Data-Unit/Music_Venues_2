@@ -1,6 +1,6 @@
 # Covid: UK live music scene on 'red alert' amid pandemic
 
-In October we took another look at the state of the live music industry in the UK amid the pandemic. 
+In October 2020 the BBC Shared Data Unit took another look at the state of the live music industry in the UK amid the pandemic. 
 
 Operators across the country said they would have to rely on fundraising activities to make it through the winter.
 
@@ -24,12 +24,12 @@ We also compiled a report with quotes from the Music Venues Trust, popstar KT Tu
 
 ## How was the report used?
 
-The story featured on the UK and England BBC homepages, as well as radio bulletins on 6Music and 5Live.
-
-It was also used by a number of partners, including:
+The BBC Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories produced by our partners included:
 
 * Glasgow Live: [Music venues fight for survival as £36,000 raised for struggling gig spots in Scotland](https://www.glasgowlive.co.uk/news/glasgow-news/music-venues-fight-survival-36000-19043338) *3 October 2020*
 * Teeside Live: [Venues desperately fighting to keep grassroots live music alive on an eighth of their normal income](https://www.gazettelive.co.uk/news/teesside-news/venues-desperately-fighting-keep-grassroots-19047748) *5 October 2020*
+
+The story also featured on the UK and England BBC homepages, as well as radio bulletins on 6Music and 5Live.
 
 ## Related repos
 
