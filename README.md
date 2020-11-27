@@ -1,6 +1,6 @@
 # Covid: UK live music scene on 'red alert' amid pandemic
 
-In October 2020 the BBC Shared Data Unit took another look at the state of the live music industry in the UK amid the pandemic. 
+In October 2020 the BBC Shared Data Unit [took another look at the state of the live music industry in the UK](https://www.bbc.co.uk/news/uk-54363095) amid the pandemic. 
 
 Operators across the country said they would have to rely on fundraising activities to make it through the winter.
 
